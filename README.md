@@ -8,8 +8,9 @@ Made by following [James Q Quick](https://github.com/jamesqquick)'s tutorial: [B
 
 - [x] Home page structure and style
 - [x] Game page structure and style
-- [ ] Game page questions
-- [ ] Game page interactions 
+- [x] Game page questions
+- [x] Game page interactions (right and wrong)
+- [ ] Game page interactions (score)
 - [ ] End page structure and style
 - [ ] Highscore page structure and style
 - [ ] Re-style animations
