@@ -9,7 +9,7 @@
 
 .choice-container:hover {
   cursor: default;  
-  box-shadow: 0 .4rem 1.4rem 0 rgba(126, 87, 194, 0.3);
+  box-shadow: 0 .4rem .4rem 0 rgba(126, 87, 194, 0.1);
   transform: translateY(-0.1rem);
   transition: transform 150ms;
 }
@@ -32,4 +32,10 @@
 
 .incorrect {
   background-color: #dc3545;
+}
+
+.correct > .choice-text,
+.incorrect > .choice-text {
+  color: #fff;
+  font-weight: 700;
 }
