@@ -9,52 +9,91 @@ let availableQuestions = [];
 
 let questions = [
   {
-    question: "Quantos !important existem nos .css do projeto do Manager?",
-    choice1: "591",
-    choice2: "347",
-    choice3: "672",
-    choice4: "133",
+    question: "Mock question 01",
+    choice1: "01_01",
+    choice2: "01_02",
+    choice3: "01_03",
+    choice4: "01_04",
     answer: 1
   },
   {
-    question: "Qual arquivo .css do Manager possui o maior número de !important declarado?",
-    choice1: "elevar.css",
-    choice2: "novo_cadastro.css",
-    choice3: "elevar-custom.css",
-    choice4: "custom.css",
-    answer: 3
-  },
-  {
-    question: "Quantos .gitignore possui o projeto do Designer?",
-    choice1: "1",
-    choice2: "6",
-    choice3: "4",
-    choice4: "5",
+    question: "Mock question 02",
+    choice1: "02_01",
+    choice2: "02_02",
+    choice3: "02_03",
+    choice4: "02_04",
     answer: 2
   },
   {
-    question: "A tarefa está atrasada porque...",
-    choice1: "Jonathan testou e achou muitos bugs",
-    choice2: "Shed testou e achou muitos bugs",
-    choice3: "Lucas testou e achou e achou muitos bugs",
-    choice4: "Qualquer uma das opções acima, misericórdia não deixem nenhum deles testar tarefas, em nome de JESUS!",
+    question: "Mock question 03",
+    choice1: "03_01",
+    choice2: "03_02",
+    choice3: "03_03",
+    choice4: "03_04",
+    answer: 3
+  },
+  {
+    question: "Mock question 04",
+    choice1: "04_01",
+    choice2: "04_02",
+    choice3: "04_03",
+    choice4: "04_04",
     answer: 4
   },
-  // {
-  //   question: "Qual o outro cargo oficial do Jonathan?",
-  //   choice1: "Dono e Proprietário do Quadro",
-  //   choice2: "Imperatriz do Kanban",
-  //   choice3: "",
-  //   choice4: "",
-  //   answer: 
-  // },
-
+  {
+    question: "Mock question 05",
+    choice1: "05_01",
+    choice2: "05_02",
+    choice3: "05_03",
+    choice4: "05_04",
+    answer: 1
+  },
+  {
+    question: "Mock question 06",
+    choice1: "06_01",
+    choice2: "06_02",
+    choice3: "06_03",
+    choice4: "06_04",
+    answer: 2
+  },
+  {
+    question: "Mock question 07",
+    choice1: "07_01",
+    choice2: "07_02",
+    choice3: "07_03",
+    choice4: "07_04",
+    answer: 3
+  },
+  {
+    question: "Mock question 08",
+    choice1: "08_01",
+    choice2: "08_02",
+    choice3: "08_03",
+    choice4: "08_04",
+    answer: 4
+  },
+  {
+    question: "Mock question 09",
+    choice1: "09_01",
+    choice2: "09_02",
+    choice3: "09_03",
+    choice4: "09_04",
+    answer: 1
+  },
+  {
+    question: "Mock question 10",
+    choice1: "10_01",
+    choice2: "10_02",
+    choice3: "10_03",
+    choice4: "10_04",
+    answer: 2
+  },
 ]
 
 //CONSTANTS
 
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 4;
+const MAX_QUESTIONS = 6;
 
 startGame = () => {
   questionCounter = 0;
