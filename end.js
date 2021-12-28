@@ -1,0 +1,4 @@
+
+saveHighScore = (e) => {
+  e.preventDefault();
+}
