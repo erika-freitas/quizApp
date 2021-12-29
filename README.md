@@ -10,7 +10,7 @@ Made by following [James Q Quick](https://github.com/jamesqquick)'s tutorial: [B
 - [x] Game page structure and style
 - [x] Game page questions
 - [x] Game page interactions (right and wrong)
-- [ ] Game page interactions (score)
-- [ ] End page structure and style
+- [x] Game page interactions (score)
+- [x] End page structure and style
 - [ ] Highscore page structure and style
 - [ ] Re-style animations
