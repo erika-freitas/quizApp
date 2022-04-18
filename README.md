@@ -1,4 +1,4 @@
-# quizApp
+# Quiz App
 
 Made by following [James Q Quick](https://github.com/jamesqquick)'s tutorial: [Build a Quiz App with HTML, CSS, and JavaScript](https://www.youtube.com/playlist?list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx)
 
@@ -12,5 +12,9 @@ Made by following [James Q Quick](https://github.com/jamesqquick)'s tutorial: [B
 - [x] Game page interactions (right and wrong)
 - [x] Game page interactions (score)
 - [x] End page structure and style
-- [ ] Highscore page structure and style
-- [ ] Re-style animations
+- [x] Highscore page structure and style
+- [ ] Re-style
+- [ ] Change class names to BEM convention
+
+---
+
